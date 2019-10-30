@@ -1,0 +1,108 @@
+.home h3{
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    
+}
+.home h1{
+    font-size: 45px;
+    text-align: center;
+    background: threedface;
+    color: brown;
+      
+}
+.home{
+    background-color: rgb(224, 236, 164);
+    background-image: url(culinaria.jpg);
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position-x: 420px;
+    background-position-y: 160px;
+    }
+
+.home ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 140px;
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+.home li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.home li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+.sobre {
+    background-color: rgb(224, 236, 164);
+    background-image: url(imagem.jpg);
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position-x: 420px;
+    background-position-y: 160px;
+}
+.sobre h1{
+    color: tomato;
+    text-decoration: underline;
+}
+
+.corrente{
+    color: green ;
+    font-size: 15px;
+    margin-bottom: 15px;
+    background-position: center;
+    background-color: LightGray;
+    border: none;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 65%;
+}
+
+.receitas h1{
+    font-size: 45px;
+    text-align: center;
+    background: darkseagreen;
+    color: brown;
+}
+.receitas div{
+    color: brown;
+    font-size: 15px;
+    margin-bottom: 15px;
+    background-position: center;
+    background-color: darkseagreen;
+    border: none;
+    padding: 40px 200px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 65%;
+}
+
+.contatos h1{
+    color: tomato;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.contatos h2{
+    font-size: 15px;
+    text-align: center;
+    background: darkseagreen;
+    color: brown;
+}
+.contatos form{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+   
+}
